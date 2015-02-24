@@ -1,0 +1,23 @@
+/bin/
+#ignore .class files
+*.class
+#ignore .jar files
+*.jar
+#ignore .war files
+*.war
+#ignore .ear files
+*.ear
+#ignore the target directory and all children
+target/
+#ignore the generated-sources directory and all children
+generated-sources/
+#ignore the eclipse .settings directory and all children
+.settings/
+#ignore eclipse .metadata directory and all children
+.metadata/
+#ignore the eclipse .project directory and all children
+.project
+#ignore the eclipse .classpath directory and all children
+.classpath
+# other
+*.iml
