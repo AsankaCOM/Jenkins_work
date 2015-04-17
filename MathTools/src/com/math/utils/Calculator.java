@@ -10,6 +10,7 @@ public class Calculator {
 		System.out.println(" 1 + 2 = " + add(1,2)); 
 	}
 	
+	//Add
 	public static int add (int a, int b) {
 		return a + b;
 	}
