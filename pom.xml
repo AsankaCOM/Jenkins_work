@@ -29,5 +29,5 @@
             </configuration>
         </plugin>
     </plugins>
-  <reporting>
+  </reporting>
 </project>
