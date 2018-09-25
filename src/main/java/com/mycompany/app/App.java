@@ -5,13 +5,13 @@ package com.mycompany.app;
  *
  */
 public class App {
-    public static void main(String[] args) {
-
-        System.out.println("Hello World!");
-    }
 
 
     public String checkString() {
         return "Asanka";
+    }
+
+    public String checkString2() {
+        return "Perera";
     }
 }
